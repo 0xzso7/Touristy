@@ -3,7 +3,7 @@
 An Augmented Reality (AR) mobile app built with **Unity** and **Vuforia Engine**.  
 Point your camera at special image cards to reveal **3D models of famous tourist spots** like the Eiffel Tower!
 
-![Screenshot_2025-06-17-21-10-34-717_com MMI Touristy](https://github.com/user-attachments/assets/00648c00-956b-452e-9803-ea24ad3e9365)
+![Screenshot_2025-06-17-21-10-34-717_com MMI Touristy](https://github.com/user-attachments/assets/9f849104-6497-4453-ae1b-13baf1927c4b)
 
 ## 🎮 Features
 
@@ -30,7 +30,7 @@ Point your camera at special image cards to reveal **3D models of famous tourist
 
 Meet the team behind the app!
 
-![aboutcont](https://github.com/user-attachments/assets/01c0b81b-148f-4bc9-b32b-68cc071d140e)
+![Screenshot_2025-06-17-21-10-29-849_com MMI Touristy](https://github.com/user-attachments/assets/fd7164b1-33a0-43e8-b039-7cc4d93241a4)
 
 > _This project was created for academic purposes._
 
@@ -38,7 +38,7 @@ Meet the team behind the app!
 
 Here’s a preview of all the image targets used in the app:
 
-![Screenshot_2025-06-17-21-10-01-504_com MMI Touristy](https://github.com/user-attachments/assets/2bf66983-1990-4fb7-b7aa-a7833488dcd2)
+![Screenshot_2025-06-17-21-10-01-504_com MMI Touristy](https://github.com/user-attachments/assets/b1e4e94c-f21e-484c-8c18-e0fd8541e521)
 
 ---
 
