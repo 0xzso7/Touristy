@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="card7-min" size="100.000000 140.034149" />
+    <ImageTarget name="card6-min" size="100.000000 140.034149" />
+    <ImageTarget name="card5-min" size="100.000000 140.034149" />
+    <ImageTarget name="card4-min" size="100.000000 140.034149" />
+    <ImageTarget name="card3-min" size="100.000000 140.034149" />
+    <ImageTarget name="card2-min" size="100.000000 140.034149" />
+    <ImageTarget name="card1-min" size="100.000000 140.034149" />
+  </Tracking>
+</QCARConfig>
