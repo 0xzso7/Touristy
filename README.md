@@ -1,4 +1,4 @@
-# 📸 AR Tourist Card Viewer
+# 📸 Touristy: AR Tourist Card Viewer
 
 An Augmented Reality (AR) mobile app built with **Unity** and **Vuforia Engine**.  
 Point your camera at special image cards to reveal **3D models of famous tourist spots** like the Eiffel Tower!
@@ -28,7 +28,7 @@ Point your camera at special image cards to reveal **3D models of famous tourist
 
 ## 👨‍💻 Our Group
 
-Meet the team behind the app!
+Meet the team behind the app! (I'm Zach, and those two are my classmates)
 
 ![Screenshot_2025-06-17-21-10-29-849_com MMI Touristy](https://github.com/user-attachments/assets/fd7164b1-33a0-43e8-b039-7cc4d93241a4)
 
